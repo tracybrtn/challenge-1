@@ -1,4 +1,5 @@
 # Horiseon
+![Final version of website](https://github.com/tracybrtn/horiseon/blob/main/assets/images/horiseon-final-screenshot.jpeg?raw=true)
 
 ## Purpose
 A website for an online reputation company that meets accessibility standards and is optimized for search engines
