@@ -1,4 +1,4 @@
-# Horseon
+# Horiseon
 
 ## Purpose
 A website for an online reputation company that meets accessibility standards and is optimized for search engines
@@ -21,7 +21,7 @@ A website for an online reputation company that meets accessibility standards an
 * CSS
 
 ## Website
-https://tracybrtn.github.io/horseon
+https://tracybrtn.github.io/horiseon
 
 ## Contribution
 Made with ❤️ by @tracybrtn
