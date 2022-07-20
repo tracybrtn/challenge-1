@@ -2,3 +2,6 @@ node_modules
 package-lock.json
 .vscode
 .DS_Store
+/assets/images/online-reputation-management
+/assets/images/searc-engine-optimization
+/assets/images/social-media-marketing
