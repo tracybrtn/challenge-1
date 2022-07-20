@@ -24,4 +24,4 @@ A website for an online reputation company that meets accessibility standards an
 https://tracybrtn.github.io/horiseon
 
 ## Contribution
-Made with ❤️ by @tracybrtn
+Made by @tracybrtn
