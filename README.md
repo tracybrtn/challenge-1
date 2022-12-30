@@ -59,10 +59,6 @@ If you decide to fork it, then:
 3. Push your branch
 4. Submit a pull request
 
-## Tests
-
-Not applicable at the moment.
-
 ## Questions
 
 If you have any questions about this project, contact me at tracynburton@gmail.com.
